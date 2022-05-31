@@ -1,0 +1,8 @@
+C:\Users\corey\source\repos\CSVariables\CSVariables\bin\Debug\CSVariables.exe.config
+C:\Users\corey\source\repos\CSVariables\CSVariables\bin\Debug\CSVariables.exe
+C:\Users\corey\source\repos\CSVariables\CSVariables\bin\Debug\CSVariables.pdb
+C:\Users\corey\source\repos\CSVariables\CSVariables\obj\Debug\CSVariables.csproj.AssemblyReference.cache
+C:\Users\corey\source\repos\CSVariables\CSVariables\obj\Debug\CSVariables.csproj.SuggestedBindingRedirects.cache
+C:\Users\corey\source\repos\CSVariables\CSVariables\obj\Debug\CSVariables.csproj.CoreCompileInputs.cache
+C:\Users\corey\source\repos\CSVariables\CSVariables\obj\Debug\CSVariables.exe
+C:\Users\corey\source\repos\CSVariables\CSVariables\obj\Debug\CSVariables.pdb
